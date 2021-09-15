@@ -10,7 +10,6 @@ const Menu = ({items}) => {
             <img src={img} alt={title} />
           </article>
         )
-
       })}
     </div>
   )
