@@ -16,7 +16,7 @@ function App() {
 
           </div>
         </div>
-        <Categories categories={categories}/>
+        <Categories categories={categories}filterItems={filterItems}/>
         <Menu items={menuItems}/>
       </section>
     </main>
